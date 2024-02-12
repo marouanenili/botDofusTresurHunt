@@ -15,6 +15,6 @@ Mêmes fonctionnalités et fenêtre que le helper, mais tout est automatisé (sa
 ### Chat Searcher
 Scan tous les messages du chat à la recherche de la chaîne de caractère donnée en input. Renvoie le message avec le nom du personnage dans la console. Plusieurs éléments de recherche sont possibles, en les séparant avec un ';'.
 
-##copy right
+## Copy right
 Merci à [laBot](https://github.com/louisabraham/LaBot) pour son reader/writer de packet.
 Merci à [DofusHelper](https://github.com/JustNao/DofusHelper)¨pour la base de ce bot.
